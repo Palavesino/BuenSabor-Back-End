@@ -1,0 +1,1 @@
+En esta parte se documentara todo el ciclo de vida del sistema a crear

@@ -1,0 +1,6 @@
+Se creara un UML con sus respectivas entidades y relaciones Ejemlpo:
+
+Entidades:
+-Usuario : id,nombre,clave,pedido.
+-Pedido : id,producto,precio.
+-Administrador : id,nombre,clave.

@@ -1,0 +1,1 @@
+La Base de datos sera compartida con el back end y el front end
