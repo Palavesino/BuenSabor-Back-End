@@ -19,3 +19,10 @@ Dicen que la glotonería es un pecado, si eso es cierto te invitamos a entrar y 
 
 - [Wireframe](https://www.figma.com/file/6mYNITqJrCvFjz5QXaYxal/El-Buen-Sabor?node-id=0-1&t=DpR56qB2K5XJi0m1-0)
 - [Diseño mobile](https://www.figma.com/file/CdORhoybAZL8KW4YfS7RN4/Untitled?node-id=0%3A1&t=80neyMDHp0bSpmur-1)
+
+## Tecnologías
+[![](https://github.com/Palavesino/Curso-Egg/blob/master/java2.png?raw=true)](https://www.java.com/es/)
+[![](https://github.com/Palavesino/Curso-Egg/blob/master/mysql.png?raw=true)](https://www.mysql.com/)
+[![](https://github.com/Palavesino/Curso-Egg/blob/master/Spring_boot.png?raw=true)](https://spring.io/)
+[![](https://github.com/Palavesino/Curso-Egg/blob/master/js%20ultimate%2010.jpg?raw=true)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![](https://github.com/Palavesino/Curso-Egg/blob/master/react.png?raw=true)](https://es.reactjs.org/)
