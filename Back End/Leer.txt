@@ -1,4 +1,0 @@
-En el back end se va usar las siguiente tecnologias:
-
--JAVA
--SPRING / HIBERNATE  

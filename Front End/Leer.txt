@@ -1,5 +1,0 @@
-En el Front End se va usar las siguientes Tecnologias :
-
-- JS
-- React
-- Bootstrap
